@@ -8,7 +8,7 @@
 
 ![Banner](https://raw.githubusercontent.com/osu-Norge/assets/master/banner.png)
 
-## Banner2
+## Youtube Banner
 
-![Banner2](https://raw.githubusercontent.com/osu-Norge/assets/master/banner2.png)
+![Youtube Banner](https://raw.githubusercontent.com/osu-Norge/assets/master/youtubebanner.png)
 
